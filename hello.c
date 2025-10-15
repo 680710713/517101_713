@@ -10,7 +10,7 @@ int main() {
         printf("Invalid input.\n");
         return 1;
     }
-
+    printf("%d",5555);
     switch (op) {
         case '+':
             result = num1 + num2;
